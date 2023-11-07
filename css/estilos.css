@@ -2,7 +2,7 @@
 
 :root {
     --padding-container: 100px 0;
-    --color-title: #001A49;
+    --color-title: #c0a0c3;
 }
 
 body {
@@ -83,7 +83,7 @@ body {
     cursor: pointer;
 }
 .nav__links:hover{
-    color: #2091F9;
+    color: #C6E1F1;
 }
 
 .nav__menu {
@@ -239,16 +239,16 @@ body {
 .price__element:hover{
     width: 370px;
     padding: 60px 40px;
-    background-color: #FF7143;
+    background-color: #FFABAB;
     --color-plan: rgb(255 255 255 / 75%);
     --color-price: #fff;
     --bg-cta: #FFF;
-    --color-cta: #9F3919;
+    --color-cta: #b83545;
     --color-items: #fff;
     transition: .4s;
 }
 .price__element .price__cta:hover{
-    background-color: #9F3919;
+    background-color: #b83545;
     color: #FFF;
     transform: scale(1.1);
     transition: .4s;
@@ -487,10 +487,10 @@ body {
     display: inline-block;
     height: 50px;
     padding: 0 20px ;
-    background-color: #2091F9;
+    background-color: #dfcae1;
     border: none;
     font-size: 1rem;
-    color: #fff;
+    color: #927fe9;
     border-radius: 6px;
     cursor: pointer;
 }
